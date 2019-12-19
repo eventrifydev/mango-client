@@ -1,1 +1,1 @@
-# payify
+# MangoClient
